@@ -1,6 +1,7 @@
 """
 Make a Program that asks for two numbers and prints the sum.
-Pt-br > Faça um Programa que peça dois números e imprima a soma.
+########################################################################################################################
+Faça um Programa que peça dois números e imprima a soma.
 """
 
 number_1 = input('Enter the first number: ')

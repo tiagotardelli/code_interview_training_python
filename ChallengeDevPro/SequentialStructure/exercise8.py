@@ -1,7 +1,8 @@
 """
 Make a Program that asks how much you earn per hour and the number of hours worked in the month. calculate and show your
 total salary for that month.
-Pt-br > Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e
+########################################################################################################################
+Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e
 mostre o total do seu salário no referido mês.
 """
 

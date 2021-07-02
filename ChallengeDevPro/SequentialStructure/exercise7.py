@@ -1,6 +1,7 @@
 """
 Make a program that calculates the area of a square, then show twice this area to the user.
-Pt-br > Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário.
+########################################################################################################################
+Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário.
 """
 
 square_side = int(input('Enter the square side: '))

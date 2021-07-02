@@ -1,6 +1,7 @@
 """
 Make a Program that asks for the 4 bimonthly notes and shows the average.
-Pt-br > Faça um Programa que peça as 4 notas bimestrais e mostre a média.
+########################################################################################################################
+Faça um Programa que peça as 4 notas bimestrais e mostre a média.
 """
 
 note_1 = input('Enter the first note: ')
